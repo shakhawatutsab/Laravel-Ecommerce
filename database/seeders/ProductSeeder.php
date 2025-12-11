@@ -17,7 +17,7 @@ class ProductSeeder extends Seeder
                 'price' => 29,
                 'stock' => 1,
                 'status' => 'active',
-                'image' => '',
+                'image' => 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtq3mJuShG8LYgdKMMygXPoz_j2xVuzpoAA&s',
                 'category_id' => 1,
                 'user_id' => 1
             ],
@@ -27,7 +27,7 @@ class ProductSeeder extends Seeder
                 'price' => 62,
                 'stock' => 1,
                 'status' => 'active',
-                'image' => '',
+                'image' => 'https://cdn20.pamono.com/p/g/1/6/1658269_qlka1al91i/vintage-lounge-chair-in-grey-fabric-3.jpg',
                 'category_id' => 2,
                 'user_id' => 1
             ],
@@ -37,7 +37,7 @@ class ProductSeeder extends Seeder
                 'price' => 17,
                 'stock' => 1,
                 'status' => 'active',
-                'image' => '',
+                'image' => 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdctSvcV__CiyGqXI_cxLAkYNslDAN3rXCGg&s',
                 'category_id' => 3,
                 'user_id' => 1
             ],
@@ -47,7 +47,7 @@ class ProductSeeder extends Seeder
                 'price' => 99,
                 'stock' => 1,
                 'status' => 'active',
-                'image' => '',
+                'image' => 'https://www.arantraditions.com/cdn/shop/products/SHAWL20-01_82707be8-203b-4601-852f-bd578da85879.jpg?v=1760712876&width=1024',
                 'category_id' => 4,
                 'user_id' => 1
             ],
