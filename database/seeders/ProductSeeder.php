@@ -17,7 +17,7 @@ class ProductSeeder extends Seeder
                 'price' => 29,
                 'stock' => 1,
                 'status' => 'active',
-                'image' => 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtq3mJuShG8LYgdKMMygXPoz_j2xVuzpoAA&s',
+                'image' => 'https://sentop.eu/13565-thickbox_default/wooden-wall-clock-roman-numerals-sentop-hdfk029-oak.jpg',
                 'category_id' => 1,
                 'user_id' => 1
             ],

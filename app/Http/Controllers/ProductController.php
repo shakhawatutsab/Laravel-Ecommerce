@@ -14,7 +14,7 @@ class ProductController extends Controller
     {
         $product = new Product;
 
-        return $product->all();
+        return $product->with("category")->get();
     }
 
     /**
