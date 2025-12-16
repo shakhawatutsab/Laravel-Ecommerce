@@ -13,8 +13,7 @@ class ProductController extends Controller
     public function index()
     {
         $product = new Product;
-
-        return $product->with("category")->get();
+        return $product->with("category")->orderBy('id','desc')->paginate(4);
     }
 
     /**
