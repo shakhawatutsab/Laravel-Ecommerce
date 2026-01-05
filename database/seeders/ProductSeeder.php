@@ -27,7 +27,7 @@ class ProductSeeder extends Seeder
                 'price' => 62,
                 'stock' => 1,
                 'status' => 'active',
-                'image' => 'https://cdn20.pamono.com/p/g/1/6/1658269_qlka1al91i/vintage-lounge-chair-in-grey-fabric-3.jpg',
+                'image' => 'https://www.woods-furniture.co.uk/images/products/standard/8502_5190.jpg',
                 'category_id' => 2,
                 'user_id' => 1
             ],
@@ -37,7 +37,7 @@ class ProductSeeder extends Seeder
                 'price' => 17,
                 'stock' => 1,
                 'status' => 'active',
-                'image' => 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdctSvcV__CiyGqXI_cxLAkYNslDAN3rXCGg&s',
+                'image' => 'https://media.diy.com/is/image/KingfisherDigital/grey-small-side-table-with-drawer-for-living-room~0735940263801_01c_MP?$MOB_PREV$&$width=1200&$height=1200',
                 'category_id' => 3,
                 'user_id' => 1
             ],

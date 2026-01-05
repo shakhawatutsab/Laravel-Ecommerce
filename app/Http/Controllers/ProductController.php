@@ -37,7 +37,9 @@ class ProductController extends Controller
      */
     public function show(string $id)
     {
-        //
+        //Get the product
+        $product = Product::with("category")->find($id);
+        return $product;
     }
 
     /**
